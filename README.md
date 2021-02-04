@@ -33,3 +33,11 @@ python labelImge.py
 cap = CV2.VideoCaptue(0)
 ```
 * Note: My webcame is device 0. The user's webcam could be accessed through a diffrent number like 1 or 2, if 0 doesn't work out.
+* Run subsequent code for real time detection to start as show:
+![alt text](https://github.com/waliddib095/RealTimeObjectDetection/blob/main/RealTimeObjectDetection-main/example_images/Mask.PNG)
+![alt text](https://github.com/waliddib095/RealTimeObjectDetection/blob/main/RealTimeObjectDetection-main/example_images/Nomask.PNG)
+
+* Note: To terminate, run the following code:
+```
+cap.release()
+```
