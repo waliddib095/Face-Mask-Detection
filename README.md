@@ -32,4 +32,4 @@ python labelImge.py
 ```
 cap = CV2.VideoCaptue(0)
 ```
-* Note: My webcame is device 0. The users webcam could be accessed through a diffrent number like 1 or 2, if 0 doesn't work out.
+* Note: My webcame is device 0. The user's webcam could be accessed through a diffrent number like 1 or 2, if 0 doesn't work out.
