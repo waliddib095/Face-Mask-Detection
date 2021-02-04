@@ -5,9 +5,9 @@ Before walking through the code, please make sure to install TensorFlow's object
 ## Labeling Images for Object Detection
 * Isntall pyqt=5 inside the labelimage folder:
 
-'''
+```
 conda install pyqt=5
-'''
+```
 
 * Install lxml in the same folder: conda isntall -c anaconda lxml
 * Put all image data in allimages folder (Mask and No-Mask)
