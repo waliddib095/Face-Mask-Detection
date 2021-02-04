@@ -1,6 +1,6 @@
 # RealTimeObjectDetection
 ## Installation
-Before walking through the code, please make sure to install TensorFlow's object detection API from the following [link] (https://tensorflow-object-detection-api-tutorial.readthedocs.io/en/latest/install.html)
+Before walking through the code, please make sure to install TensorFlow's object detection API from the following [link](https://tensorflow-object-detection-api-tutorial.readthedocs.io/en/latest/install.html)
 
 ## Labeling Images for Object Detection
 1. Isntall pyqt=5 inside the labelimage folder by writing the following in terminal: conda install pyqt=5
