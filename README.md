@@ -5,7 +5,7 @@ Before walking through the code, please make sure to install TensorFlow's object
 ## Labeling Images for Object Detection
 * Isntall pyqt=5 inside the labelimage folder:
 
-'''bash
+'''
 conda install pyqt=5
 '''
 
