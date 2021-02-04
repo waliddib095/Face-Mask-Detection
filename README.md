@@ -23,4 +23,8 @@ python labelImge.py
 ![alt text](https://github.com/waliddib095/RealTimeObjectDetection/blob/main/RealTimeObjectDetection-main/example_images/Mask%20label.PNG)
 
 ## Training TensorFlow
-Run through main [code](https://github.com/waliddib095/RealTimeObjectDetection/tree/main/RealTimeObjectDetection-main/main_code)
+Run through main [code](https://github.com/waliddib095/RealTimeObjectDetection/tree/main/RealTimeObjectDetection-main/main_code) on Jupyter notebook up to step 6.
+Note: Training steps can be set based on desired accuracy/time trade off.
+
+## Training TensorFlow
+
