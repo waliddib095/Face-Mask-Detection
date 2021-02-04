@@ -27,5 +27,9 @@ python labelImge.py
 * Note: Training steps can be set based on desired accuracy/time trade off. 5000 steps were used to reach a loss below 0.2 as shown:
 ![alt text](https://github.com/waliddib095/RealTimeObjectDetection/blob/main/RealTimeObjectDetection-main/example_images/Training%20Steps.PNG)
 
-## Training TensorFlow
-
+## Detect in Real Time
+* Use CV2 to setup video capture: 
+```
+cap = CV2.VideoCaptue(0)
+```
+* Note: My webcame is device 0. The users webcam could be accessed through a diffrent number like 1 or 2, if 0 doesn't work out.
