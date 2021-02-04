@@ -24,7 +24,8 @@ python labelImge.py
 
 ## Training TensorFlow
 * Run through main [code](https://github.com/waliddib095/RealTimeObjectDetection/tree/main/RealTimeObjectDetection-main/main_code) on Jupyter notebook up to step 6.
-* Note: Training steps can be set based on desired accuracy/time trade off.
+* Note: Training steps can be set based on desired accuracy/time trade off. 5000 steps were used to reach a loss below 0.2 as shown:
+![alt text](https://github.com/waliddib095/RealTimeObjectDetection/blob/main/RealTimeObjectDetection-main/example_images/Training%20Steps.PNG)
 
 ## Training TensorFlow
 
