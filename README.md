@@ -43,3 +43,7 @@ cap = CV2.VideoCaptue(0)
 ```
 cap.release()
 ```
+## To improve model accuracy:
+* Train with longer steps.
+* Provide more image data to model.
+* Pefrom image transformation like shift, split, or applying blurr.
